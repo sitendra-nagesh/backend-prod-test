@@ -1,0 +1,22 @@
+{
+  "name": "production-testing",
+  "version": "1.0.0",
+  "description": "This is set up to run code in production",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "production",
+    "express",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Sitendra Nagesh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
